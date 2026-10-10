@@ -1,0 +1,714 @@
+{
+  "business": {
+    "name": "Barmil Care Services",
+    "phone": "0449 644 722",
+    "phoneHref": "+61449644722",
+    "email": "Info@barmilcareservices.com.au",
+    "area": "Canberra, ACT",
+    "hours": "Monday–Friday, 9am–5pm",
+    "website": "https://barmilcareservices.com.au"
+  },
+  "services": [
+    {
+      "slug": "daily-tasks-shared-living",
+      "name": "Daily Tasks & Shared Living",
+      "short": "Daily living support",
+      "category": "At home",
+      "icon": "home",
+      "image": "hero-home-support.webp",
+      "title": "NDIS Daily Living Support Canberra | Barmil Care",
+      "h1": "NDIS daily living support in Canberra",
+      "description": "Everyday assistance with routines and shared living in Canberra. Talk to Barmil Care Services about NDIS daily living support shaped around your needs.",
+      "primary": "ndis daily living support canberra",
+      "secondary": [
+        "ndis assistance with daily life",
+        "ndis daily tasks shared living"
+      ],
+      "intro": "Barmil offers NDIS daily living support in Canberra, including help with daily tasks and shared living routines. Tell us where an extra pair of hands would make home life easier, while keeping your choices at the centre.",
+      "leadHeading": "Practical assistance with daily life at home.",
+      "body": [
+        "NDIS assistance with daily life focuses on the routines you need help carrying out now. That might involve organising the day, preparing a meal or sharing household responsibilities. In a shared home, we also discuss how assistance fits with the other people living there.",
+        "Your preferences shape the tasks and timing. We ask what you want to manage yourself, what you would like help with and how the routine should work. Daily tasks and shared living assistance is described here as practical support, without advertising housing or a SIL arrangement."
+      ],
+      "includes": [
+        [
+          "Everyday routines",
+          "Assistance organising morning, daytime or evening tasks around your preferences."
+        ],
+        [
+          "Meals and household routines",
+          "Help with everyday meal preparation and shared responsibilities, as agreed in your support arrangements."
+        ],
+        [
+          "Living alongside others",
+          "Support to participate in household activities and communicate your preferences."
+        ],
+        [
+          "Building confidence at home",
+          "Encouragement to take part in tasks at a pace that suits you."
+        ]
+      ],
+      "process": "Tell us about your living arrangement, the tasks you find difficult and the times you need help. We will discuss the type and frequency of assistance, your plan arrangements and current availability before agreeing on a schedule.",
+      "boundary": "Daily tasks and shared living assistance does not, by itself, mean housing is supplied or that 24-hour Supported Independent Living (SIL) is available. Ask us about your specific support needs before making arrangements.",
+      "faqs": [
+        [
+          "Is this the same as Supported Independent Living?",
+          "Not necessarily. Assistance with daily tasks can involve particular routines or times of day. SIL is a specific home-and-living support arrangement. We will clarify the service being offered before you start."
+        ],
+        [
+          "Can I keep doing some tasks myself?",
+          "Yes. Tell us which activities you want to manage independently and where you would like assistance. Your preferences form part of the discussion about your support."
+        ],
+        [
+          "Do you provide the accommodation?",
+          "This page describes assistance with everyday tasks. It is not a listing of available homes or a promise that accommodation will be provided."
+        ]
+      ],
+      "related": [
+        "assist-personal-activities",
+        "household-tasks",
+        "development-life-skills"
+      ],
+      "cardSummary": "Practical help with everyday routines, including in a shared home.",
+      "distinction": "Need help doing a task today, or want to learn to do it more independently? Daily living assistance focuses on carrying out routines. Life skills development focuses on learning and repeated practice.",
+      "contextLinks": [
+        [
+          "/services/development-life-skills",
+          "Explore life skills development"
+        ]
+      ]
+    },
+    {
+      "slug": "accommodation-tenancy",
+      "name": "Accommodation & Tenancy",
+      "short": "Accommodation & tenancy",
+      "category": "At home",
+      "icon": "key",
+      "image": "about-support-team.webp",
+      "title": "NDIS Accommodation & Tenancy Canberra | Barmil Care",
+      "h1": "NDIS accommodation & tenancy assistance in Canberra",
+      "description": "Practical NDIS accommodation and tenancy assistance in Canberra. Discuss applications, tenancy routines and moving plans with Barmil Care Services.",
+      "primary": "ndis accommodation tenancy",
+      "secondary": [
+        "ndis accommodation services canberra",
+        "ndis tenancy assistance canberra"
+      ],
+      "intro": "Barmil provides practical NDIS accommodation and tenancy assistance in Canberra. We help you work through the documents, routines and decisions involved in accessing or maintaining a suitable home.",
+      "leadHeading": "Make the next step towards home feel clearer.",
+      "body": [
+        "Our NDIS accommodation services focus on tenancy assistance, rather than supplying a property. You may want help gathering information for an application, organising household responsibilities or planning the practical steps involved in a move.",
+        "We start with your housing goals, access needs and the people you want involved. Together, we identify the information to gather and questions to ask. You remain involved in decisions about your home, and any legal or specialist tenancy advice needs an appropriate adviser."
+      ],
+      "includes": [
+        [
+          "Planning your next steps",
+          "Clarifying your accommodation goals and the practical tasks involved."
+        ],
+        [
+          "Applications and information",
+          "Assistance organising relevant documents and working through application requirements."
+        ],
+        [
+          "Tenancy routines",
+          "Support to understand everyday tenancy responsibilities and keep track of important information."
+        ],
+        [
+          "Preparing for change",
+          "Help organising the practical steps around a move or a change in living arrangements."
+        ]
+      ],
+      "process": "Contact us with a brief description of your current situation and what you would like to change. We will discuss the assistance you need, your funding arrangements and the appropriate next steps.",
+      "boundary": "Tenancy assistance is different from supplying housing or Specialist Disability Accommodation (SDA). It does not guarantee a property, pay rent or replace specialist tenancy advice.",
+      "faqs": [
+        [
+          "Does this service provide a house?",
+          "No housing vacancy or property is being advertised here. This service supports the process of accessing or maintaining accommodation."
+        ],
+        [
+          "Is this Specialist Disability Accommodation?",
+          "No. SDA is a separate type of specially designed housing. Accommodation and tenancy assistance focuses on practical support with accessing and maintaining a home."
+        ],
+        [
+          "Can I get help before I move?",
+          "Contact us to discuss the planning, documents and everyday skills you need help with. We will explain what assistance may be suitable for your situation."
+        ]
+      ],
+      "related": [
+        "daily-tasks-shared-living",
+        "assist-life-stage-transition",
+        "development-life-skills"
+      ],
+      "cardSummary": "Practical assistance with accessing or maintaining a tenancy.",
+      "contextLinks": [
+        [
+          "/services/daily-tasks-shared-living",
+          "Help with daily routines after a move"
+        ]
+      ]
+    },
+    {
+      "slug": "household-tasks",
+      "name": "Household Tasks",
+      "short": "Household tasks & cleaning",
+      "category": "At home",
+      "icon": "spark",
+      "image": "hero-home-support.webp",
+      "title": "NDIS Cleaning Services Canberra | Barmil Care",
+      "h1": "NDIS cleaning services in Canberra",
+      "description": "NDIS household tasks, cleaning and domestic assistance across Canberra. Discuss help with laundry, kitchen routines and essential home tasks with Barmil.",
+      "primary": "ndis cleaning services canberra",
+      "secondary": [
+        "domestic assistance ndis canberra",
+        "ndis cleaners canberra",
+        "ndis household tasks"
+      ],
+      "intro": "Barmil offers NDIS cleaning services in Canberra as part of household task assistance. If disability makes essential cleaning or domestic routines difficult, we can discuss help with the tasks that matter in your home.",
+      "leadHeading": "Household tasks, handled your way.",
+      "body": [
+        "NDIS household tasks can include help with essential cleaning, laundry and kitchen routines, depending on the agreed service. We talk through the rooms and jobs you need assistance with, how often help is needed and what you prefer to do yourself.",
+        "If you are comparing NDIS cleaners in Canberra, ask which tasks, products and equipment are included. Our domestic assistance is planned around your disability-related needs and preferences. We agree on the work, timing and access to your home before support begins."
+      ],
+      "includes": [
+        [
+          "Essential cleaning",
+          "Help with agreed cleaning tasks in the living areas you use day to day."
+        ],
+        [
+          "Laundry and linen",
+          "Assistance with washing, hanging, folding and changing linen where this forms part of your support."
+        ],
+        [
+          "Kitchen routines",
+          "Help with dishes, surfaces and keeping everyday kitchen areas organised."
+        ],
+        [
+          "A workable home routine",
+          "A discussion about regular tasks, priorities and how much assistance you need."
+        ]
+      ],
+      "process": "Let us know your Canberra suburb, the tasks you need help with and your preferred schedule. We will discuss your disability-related needs, suitable support arrangements and any practical requirements before confirming a service.",
+      "boundary": "This service concerns disability-related household assistance. Specialist cleaning, gardening, major maintenance and end-of-lease work are not assumed to be included. Ask about the exact tasks you require.",
+      "faqs": [
+        [
+          "Can I request regular household assistance?",
+          "Tell us the tasks and frequency you have in mind. We will discuss a schedule based on your needs and current availability."
+        ],
+        [
+          "Can NDIS funding be used for cleaning?",
+          "Some participants have funding for disability-related household assistance. Whether a particular service can be paid for depends on your plan and support needs. Check your arrangements before booking."
+        ],
+        [
+          "Do you bring cleaning products?",
+          "Please ask when enquiring. We will agree on any equipment, products and access requirements before the service starts."
+        ]
+      ],
+      "related": [
+        "daily-tasks-shared-living",
+        "assist-personal-activities",
+        "development-life-skills"
+      ],
+      "cardSummary": "Help with essential cleaning, laundry and household routines.",
+      "contextLinks": [
+        [
+          "/services/development-life-skills",
+          "Support to learn household skills"
+        ]
+      ]
+    },
+    {
+      "slug": "assist-life-stage-transition",
+      "name": "Life Stage & Transition Support",
+      "short": "Life changes & transitions",
+      "category": "Building independence",
+      "icon": "path",
+      "image": "about-support-team.webp",
+      "title": "NDIS Life Transition Support Canberra | Barmil Care",
+      "h1": "NDIS life transition support in Canberra",
+      "description": "Practical NDIS life transition support in Canberra. Plan changes in living arrangements, routines and support needs with Barmil Care Services.",
+      "primary": "ndis life transition support",
+      "secondary": [
+        "ndis life stage transition",
+        "ndis life stage transition canberra"
+      ],
+      "intro": "Barmil’s NDIS life transition support in Canberra helps you plan practical steps when life changes. Tell us about the move, new routine or changing support needs you are working through, and what would help you feel prepared.",
+      "leadHeading": "A little more clarity when life is changing.",
+      "body": [
+        "NDIS life transition support focuses on a change in your circumstances. A life stage transition might involve moving home or adjusting to a different routine. We help you identify the tasks, questions and people involved, then consider which steps to tackle first.",
+        "We listen to what you want from the change. That may mean preparing questions for appointments, planning a new daily routine or communicating your preferences to the people supporting you. We discuss the scope of assistance before making arrangements."
+      ],
+      "includes": [
+        [
+          "Understanding the change",
+          "Talking through your priorities, concerns and the practical decisions ahead."
+        ],
+        [
+          "Planning manageable steps",
+          "Organising tasks, information and appointments around the transition."
+        ],
+        [
+          "Settling into new routines",
+          "Assistance working towards everyday routines in a new situation."
+        ],
+        [
+          "Keeping your voice central",
+          "Support to express preferences and involve the people you choose."
+        ]
+      ],
+      "process": "Tell us what is changing and the parts you would like help with. We will discuss a practical support approach, how it fits with your existing services and the next steps you feel ready to take.",
+      "boundary": "Life transition assistance does not automatically include formal support coordination, plan management, employment placement or clinical services. We will clarify the scope of the support before you begin.",
+      "faqs": [
+        [
+          "Do I need to know exactly what support I want?",
+          "No. You can begin by telling us what is changing and what feels difficult. The first conversation helps identify practical next steps."
+        ],
+        [
+          "Can a family member or support person be involved?",
+          "You can ask for someone you trust to take part in the discussion. We will follow your preferences about their involvement."
+        ],
+        [
+          "Is this support coordination?",
+          "Not automatically. Transition assistance and formal support coordination can have different roles. Ask us to explain the service being offered and how it fits your needs."
+        ]
+      ],
+      "related": [
+        "accommodation-tenancy",
+        "development-life-skills",
+        "participate-community"
+      ],
+      "cardSummary": "Practical planning through changes in your routines or circumstances.",
+      "contextLinks": [
+        [
+          "/services/accommodation-tenancy",
+          "Tenancy assistance when moving home"
+        ]
+      ]
+    },
+    {
+      "slug": "assist-travel-transport",
+      "name": "Travel & Transport Assistance",
+      "short": "Travel & transport",
+      "category": "In the community",
+      "icon": "car",
+      "image": "transport-assistance.webp",
+      "title": "NDIS Transport Support Canberra | Barmil Care Services",
+      "h1": "NDIS transport support in Canberra",
+      "description": "Discuss NDIS transport support across Canberra for appointments, shopping and community activities. Plan your journey with Barmil Care Services.",
+      "primary": "ndis transport support canberra",
+      "secondary": [
+        "transport assistance ndis canberra",
+        "ndis travel and transport",
+        "ndis transport assistance"
+      ],
+      "intro": "Barmil offers NDIS transport support in Canberra for journeys such as appointments, shopping and community activities. Share your destination, timing and access requirements so we can discuss a suitable travel arrangement.",
+      "leadHeading": "Support for the journeys that matter to you.",
+      "body": [
+        "NDIS travel and transport assistance starts with the journey you need to make. We discuss departure times, getting ready, the help required while travelling and whether you also need support at your destination.",
+        "When arranging NDIS transport assistance, tell us how often you travel and any mobility or communication requirements. We will confirm whether suitable transport and assistance are available, together with charges and booking arrangements, before a journey is agreed."
+      ],
+      "includes": [
+        [
+          "Appointments",
+          "Discuss travel assistance for health, personal or other scheduled appointments."
+        ],
+        [
+          "Everyday errands",
+          "Plan journeys for shopping and other agreed activities in your daily routine."
+        ],
+        [
+          "Community activities",
+          "Talk through travel to social, recreational or community commitments."
+        ],
+        [
+          "Practical journey planning",
+          "Clarify pickup, destination, access needs and the support required along the way."
+        ]
+      ],
+      "process": "When enquiring, include your pickup suburb, destination, preferred date and any access requirements. Please check availability and the suitability of arrangements before relying on a booking.",
+      "boundary": "Vehicle accessibility, wheelchair requirements, service hours and assistance during the journey must be confirmed for your booking. Emergency medical transport is not advertised as part of this service.",
+      "faqs": [
+        [
+          "Can you help with regular appointments?",
+          "Tell us the locations, dates and assistance you need. We will discuss whether a suitable regular arrangement is available."
+        ],
+        [
+          "Is wheelchair-accessible transport available?",
+          "Please describe your wheelchair, mobility and transfer requirements when you enquire. We will confirm vehicle suitability and the assistance available before a booking."
+        ],
+        [
+          "What costs should I ask about?",
+          "Ask about support time, travel, kilometres, waiting time and any other agreed charges. Funding and billing depend on your plan and the service arrangement."
+        ]
+      ],
+      "related": [
+        "participate-community",
+        "group-centre-activities",
+        "development-life-skills"
+      ],
+      "cardSummary": "Discuss journeys, access requirements and travel assistance.",
+      "contextLinks": [
+        [
+          "/services/participate-community",
+          "Assistance at a social or community activity"
+        ]
+      ]
+    },
+    {
+      "slug": "group-centre-activities",
+      "name": "Group & Centre Activities",
+      "short": "Group activities",
+      "category": "In the community",
+      "icon": "people",
+      "image": "community-picnic.webp",
+      "title": "NDIS Group Activities Canberra | Barmil Care Services",
+      "h1": "NDIS group activities in Canberra",
+      "description": "Explore NDIS group activities in Canberra with Barmil. Discuss shared activities, participation goals, access needs and current program availability.",
+      "primary": "ndis group activities",
+      "secondary": [
+        "ndis group activities canberra",
+        "ndis group and centre activities"
+      ],
+      "intro": "Explore NDIS group activities in Canberra with Barmil. Discuss shared interests, the kind of group setting you prefer and the assistance you need, then ask about current options and arrangements.",
+      "leadHeading": "Something to look forward to, together.",
+      "body": [
+        "NDIS group and centre activities bring people together around a shared activity. The defining feature is the group arrangement: who is taking part, how the session is organised and what support each person needs. A permanent Barmil centre is not implied by the service name.",
+        "Feeling comfortable in a group matters as much as the activity. Tell us about your preferences for noise levels, group size and accessibility. We will discuss the options currently available and clarify locations, staffing, travel and activity costs before you decide."
+      ],
+      "includes": [
+        [
+          "Shared interests",
+          "Explore available activities based on what you enjoy and would like to try."
+        ],
+        [
+          "Social connection",
+          "Opportunities to take part alongside other people with appropriate support."
+        ],
+        [
+          "Skills through participation",
+          "Practise communication, cooperation or everyday skills within a shared activity."
+        ],
+        [
+          "Planning for access",
+          "Discuss venue access, transport, group arrangements and individual support needs."
+        ]
+      ],
+      "process": "Tell us your interests, preferred days and any access or support requirements. We will explain current activities, locations and arrangements before you decide whether to participate.",
+      "boundary": "A permanent Barmil centre, specific timetable or particular program is not implied. Confirm current locations, availability, staffing arrangements and any activity costs when enquiring.",
+      "faqs": [
+        [
+          "Which group activities are available?",
+          "Contact us for the current options, dates and locations. Programs can change, so we will confirm what is available when you enquire."
+        ],
+        [
+          "Will transport be included?",
+          "Transport should be discussed separately. We will clarify the arrangements and any costs before you agree to an activity."
+        ],
+        [
+          "Does NDIS funding pay for the activity itself?",
+          "Funding for support to participate is different from ordinary entry fees, meals or memberships. Check the agreed support and activity costs before booking."
+        ]
+      ],
+      "related": [
+        "participate-community",
+        "innovative-community-participation",
+        "assist-travel-transport"
+      ],
+      "cardSummary": "Explore shared activities and ask about current group arrangements.",
+      "distinction": "Group activities involve a shared session. Social and community participation concerns assistance with an activity you choose, while innovative participation explores an individual barrier that needs a tailored approach.",
+      "contextLinks": [
+        [
+          "/services/participate-community",
+          "Social and community participation"
+        ],
+        [
+          "/services/innovative-community-participation",
+          "Innovative community participation"
+        ]
+      ]
+    },
+    {
+      "slug": "assist-personal-activities",
+      "name": "Personal Activities & Care",
+      "short": "Personal care",
+      "category": "At home",
+      "icon": "heart",
+      "image": "hero-home-support.webp",
+      "title": "NDIS Personal Care Canberra | Barmil Care Services",
+      "h1": "NDIS personal care in Canberra",
+      "description": "Respectful personal care assistance in Canberra. Discuss support with daily personal routines, hygiene and dressing with Barmil Care Services.",
+      "primary": "ndis personal care canberra",
+      "secondary": [
+        "ndis personal care",
+        "ndis personal activities",
+        "ndis home care canberra"
+      ],
+      "intro": "Barmil offers NDIS personal care in Canberra for everyday routines such as hygiene and getting dressed. We begin with your preferences, the assistance you need and what helps you feel comfortable.",
+      "leadHeading": "Your routine. Your privacy. Your choice.",
+      "body": [
+        "NDIS personal care focuses on assistance with personal activities, with your privacy and consent guiding the arrangement. We discuss how you communicate, the way you prefer help to be offered and which tasks you want to manage yourself.",
+        "If you are looking for NDIS home care in Canberra, tell us which personal activities you need help with. You may need assistance with one part of your morning or evening routine. We agree on the tasks and any safety or access requirements before support begins."
+      ],
+      "includes": [
+        [
+          "Hygiene routines",
+          "Discuss suitable assistance with washing, grooming and other agreed daily routines."
+        ],
+        [
+          "Getting dressed",
+          "Help with dressing and preparing for your day, according to your preferences."
+        ],
+        [
+          "Daily personal activities",
+          "Assistance with agreed personal tasks that are difficult because of your disability."
+        ],
+        [
+          "Respect for independence",
+          "Support that makes room for the tasks you want to do for yourself."
+        ]
+      ],
+      "process": "Share the tasks you need help with, your preferred times and any important support requirements. We will discuss whether the service is suitable and agree on the arrangements before you start.",
+      "boundary": "This page describes everyday personal assistance. Nursing, high-intensity personal care and other clinical supports need separate assessment and confirmation; they are not assumed to be included.",
+      "faqs": [
+        [
+          "Can I explain my preferences before support starts?",
+          "Yes. Tell us how you like tasks to be approached, any communication preferences and what helps you feel comfortable."
+        ],
+        [
+          "Can a family member help with the initial conversation?",
+          "You can include a family member, carer or other person you trust, if that is your choice."
+        ],
+        [
+          "Does personal care include nursing?",
+          "Everyday personal assistance and nursing are different services. Please describe any clinical needs so the appropriate service can be clarified."
+        ]
+      ],
+      "related": [
+        "daily-tasks-shared-living",
+        "household-tasks",
+        "assist-travel-transport"
+      ],
+      "cardSummary": "Respectful assistance with hygiene, dressing and personal routines.",
+      "contextLinks": [
+        [
+          "/services/daily-tasks-shared-living",
+          "Assistance with broader daily routines"
+        ]
+      ]
+    },
+    {
+      "slug": "development-life-skills",
+      "name": "Development of Life Skills",
+      "short": "Daily living & life skills",
+      "category": "Building independence",
+      "icon": "grow",
+      "image": "about-support-team.webp",
+      "title": "NDIS Life Skills Development Canberra | Barmil Care",
+      "h1": "NDIS life skills development in Canberra",
+      "description": "Build everyday skills at your own pace in Canberra. Barmil offers NDIS life skills support around practical routines, confidence and independence.",
+      "primary": "ndis life skills",
+      "secondary": [
+        "ndis development of life skills",
+        "ndis life skills canberra"
+      ],
+      "intro": "Barmil supports NDIS life skills development in Canberra through learning and practice. Choose a practical skill you want to build, such as preparing a meal, planning shopping or organising your week, and we can discuss manageable steps.",
+      "leadHeading": "Practise today. Build confidence over time.",
+      "body": [
+        "NDIS life skills support is about learning how to do something and practising it over time. Development of life skills can involve breaking a task into steps, trying a step together and reviewing what makes it easier to remember or repeat.",
+        "A useful goal might be writing your own shopping list or preparing one familiar meal. We discuss a suitable setting and pace, then revisit the skill with you. Progress looks different for everyone, and no particular outcome or timetable is promised."
+      ],
+      "includes": [
+        [
+          "Home skills",
+          "Practise everyday tasks such as planning meals, cooking or organising a household routine."
+        ],
+        [
+          "Shopping and planning",
+          "Work on lists, preparing for errands and making everyday choices."
+        ],
+        [
+          "Communication and confidence",
+          "Practise expressing needs, asking questions and taking part in daily decisions."
+        ],
+        [
+          "Community routines",
+          "Discuss skills for getting ready, navigating familiar activities and participating more independently."
+        ]
+      ],
+      "process": "Choose a goal you would like to work towards. We will discuss the steps, the setting in which you want to practise and how support can be reviewed as your confidence changes.",
+      "boundary": "Skill development is different from having a task completed for you. The right mix of assistance and learning depends on your goals, support needs and plan arrangements.",
+      "faqs": [
+        [
+          "Do I need to start with a big goal?",
+          "No. A small goal, such as preparing one meal or organising a weekly shopping list, can be a useful starting point."
+        ],
+        [
+          "Where does life skills support happen?",
+          "The setting depends on the skill and your circumstances. Discuss whether practice at home or in the community is appropriate and available."
+        ],
+        [
+          "Can I change the skills I work on?",
+          "Your priorities may change. We can discuss adjustments to your goals and the support arrangements as you go."
+        ]
+      ],
+      "related": [
+        "daily-tasks-shared-living",
+        "assist-life-stage-transition",
+        "participate-community"
+      ],
+      "cardSummary": "Learn and practise practical skills at a pace that suits you.",
+      "distinction": "Life skills development focuses on learning. If you mainly need assistance carrying out a routine today, daily living support may be the more relevant service. The two can complement one another without having the same purpose.",
+      "contextLinks": [
+        [
+          "/services/daily-tasks-shared-living",
+          "Practical daily living support"
+        ]
+      ]
+    },
+    {
+      "slug": "innovative-community-participation",
+      "name": "Innovative Community Participation",
+      "short": "Tailored community participation",
+      "category": "Building independence",
+      "icon": "sun",
+      "image": "community-picnic.webp",
+      "title": "NDIS Innovative Community Participation Canberra | Barmil",
+      "h1": "NDIS innovative community participation in Canberra",
+      "description": "NDIS innovative community participation in Canberra. Discuss individual barriers, preparation and tailored participation support with Barmil.",
+      "primary": "ndis innovative community participation",
+      "secondary": [
+        "innovative community participation",
+        "ndis innovative community participation canberra"
+      ],
+      "intro": "Barmil’s NDIS innovative community participation in Canberra starts with a particular barrier to taking part. We discuss your circumstances and goals, then explore a tailored approach where a standard activity arrangement may not fit.",
+      "leadHeading": "A more individual way to take part.",
+      "body": [
+        "NDIS innovative community participation focuses on an individual approach to a participation goal. We ask what has made involvement difficult, what you have already tried and which practical changes or preparation might help.",
+        "For example, you might want to work through the steps involved in approaching an unfamiliar setting before deciding whether to take part. This is an example to discuss, not a scheduled program or a promise of a particular outcome. Suitability, funding arrangements and available assistance must be confirmed."
+      ],
+      "includes": [
+        [
+          "Understanding barriers",
+          "Explore the circumstances that make usual participation options difficult."
+        ],
+        [
+          "An individual approach",
+          "Discuss support designed around your specific needs and participation goals."
+        ],
+        [
+          "Practical preparation",
+          "Identify the information, routines or assistance that may help you take part."
+        ],
+        [
+          "Reviewing what works",
+          "Use your feedback to discuss whether the approach is meeting your needs."
+        ]
+      ],
+      "process": "Tell us what you would like to participate in, the barriers you have encountered and any existing support arrangements. We will discuss suitability, the proposed scope and your funding arrangements.",
+      "boundary": "Innovative community participation is not a general promise to fund hobbies or leisure activities. It is distinct from routine community access and standard group programs, and must be suitable for your individual needs.",
+      "faqs": [
+        [
+          "How is this different from ordinary community participation?",
+          "Ordinary participation support concerns assistance accessing chosen everyday activities. Innovative participation starts with a particular barrier and explores an individually tailored response. We clarify the proposed service with you before you agree."
+        ],
+        [
+          "Is there a set activity program?",
+          "The focus is on your circumstances and goals. Contact us to discuss whether an individual approach is appropriate and available."
+        ],
+        [
+          "Will my NDIS plan cover it?",
+          "That depends on your plan, the proposed support and your disability-related needs. Funding should be checked before you agree to a service."
+        ]
+      ],
+      "related": [
+        "participate-community",
+        "group-centre-activities",
+        "development-life-skills"
+      ],
+      "cardSummary": "Explore a tailored approach to individual participation barriers.",
+      "distinction": "This page focuses on tailored preparation and individual barriers. For assistance attending everyday activities, see social and community participation. For shared sessions, see group activities.",
+      "contextLinks": [
+        [
+          "/services/participate-community",
+          "Support to attend everyday community activities"
+        ],
+        [
+          "/services/group-centre-activities",
+          "Shared group activities"
+        ]
+      ]
+    },
+    {
+      "slug": "participate-community",
+      "name": "Social & Community Participation",
+      "short": "Community participation",
+      "category": "In the community",
+      "icon": "chat",
+      "image": "community-picnic.webp",
+      "title": "NDIS Community Participation Canberra | Barmil Care",
+      "h1": "NDIS social & community participation in Canberra",
+      "description": "Support to take part in social and community life across Canberra. Explore NDIS community participation shaped around your interests with Barmil.",
+      "primary": "community participation ndis canberra",
+      "secondary": [
+        "ndis community participation",
+        "ndis social and community participation",
+        "community access support"
+      ],
+      "intro": "Barmil offers NDIS community participation support in Canberra to help you access social activities and places you choose. Tell us who you want to spend time with, where you want to go and the assistance you need to take part.",
+      "leadHeading": "More room for the things and people you enjoy.",
+      "body": [
+        "NDIS social and community participation centres on the activity you want to attend. You might need community access support to visit a local library, meet friends or take part in a cultural event. The choices and interests are yours.",
+        "We discuss the practical details: where you want to go, what help you need on arrival and during the activity, and any arrangements for getting home. Support time, travel and ordinary activity costs should be clarified before you book."
+      ],
+      "includes": [
+        [
+          "Social connection",
+          "Assistance to participate in agreed social activities and maintain connections."
+        ],
+        [
+          "Community access",
+          "Discuss support to visit local places or take part in community activities."
+        ],
+        [
+          "Culture and interests",
+          "Explore activities that reflect your interests, culture and preferences."
+        ],
+        [
+          "Confidence to participate",
+          "Plan practical steps around access, communication and getting comfortable in a setting."
+        ]
+      ],
+      "process": "Tell us what you enjoy, what you would like to try and any support or access requirements. We will discuss options, availability and the arrangements needed before an activity goes ahead.",
+      "boundary": "Support to participate and the ordinary cost of an activity are different. Tickets, meals, memberships and transport arrangements should be discussed separately before booking.",
+      "faqs": [
+        [
+          "Can I choose the activities?",
+          "Your interests guide the conversation. Tell us what you would like to do so we can discuss suitable support and availability."
+        ],
+        [
+          "Is this only for group activities?",
+          "No. Community participation concerns support to access activities. Group programs are a separate option with their own arrangements."
+        ],
+        [
+          "Can I start with a familiar place?",
+          "Yes. You can ask to discuss support around a familiar setting or routine, then consider other activities at a pace that suits you."
+        ]
+      ],
+      "related": [
+        "assist-travel-transport",
+        "group-centre-activities",
+        "innovative-community-participation"
+      ],
+      "cardSummary": "Assistance to access the social activities and places you choose.",
+      "distinction": "Everyday community access is the focus here. A shared session belongs under group activities. Where an individual barrier needs tailored preparation, innovative community participation may be worth discussing.",
+      "contextLinks": [
+        [
+          "/services/group-centre-activities",
+          "Group and centre activities"
+        ],
+        [
+          "/services/innovative-community-participation",
+          "Tailored innovative participation"
+        ]
+      ]
+    }
+  ]
+}

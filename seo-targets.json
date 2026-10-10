@@ -1,0 +1,470 @@
+[
+  {
+    "path": "/",
+    "page": "Home",
+    "primary": "ndis provider canberra",
+    "primary_check": "ndis provider canberra",
+    "body_check": "ndis provider canberra",
+    "intent": "Choose a Canberra disability support provider",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "disability support services canberra",
+        "natural_form": "disability support services in Canberra",
+        "check": "disability support services in Canberra",
+        "note": ""
+      },
+      {
+        "keyword": "ndis providers canberra",
+        "natural_form": "NDIS provider in Canberra (singular/plural variation)",
+        "check": "NDIS provider in Canberra",
+        "note": "Singular/plural variation shares the homepage; no duplicate landing page."
+      }
+    ]
+  },
+  {
+    "path": "/services/daily-tasks-shared-living",
+    "page": "Daily Tasks & Shared Living",
+    "primary": "ndis daily living support canberra",
+    "primary_check": "ndis daily living support canberra",
+    "body_check": "ndis daily living support",
+    "intent": "Practical assistance carrying out daily routines, including shared homes; no SIL offer",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis assistance with daily life",
+        "natural_form": "ndis assistance with daily life",
+        "check": "ndis assistance with daily life",
+        "note": ""
+      },
+      {
+        "keyword": "ndis daily tasks shared living",
+        "natural_form": "daily tasks and shared living",
+        "check": "daily tasks shared living",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/accommodation-tenancy",
+    "page": "Accommodation & Tenancy",
+    "primary": "ndis accommodation tenancy",
+    "primary_check": "ndis accommodation tenancy canberra",
+    "body_check": "ndis accommodation tenancy",
+    "intent": "Practical help accessing or maintaining a tenancy; no housing supply",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis accommodation services canberra",
+        "natural_form": "NDIS accommodation services, scoped to Canberra tenancy assistance",
+        "check": "ndis accommodation services canberra",
+        "note": ""
+      },
+      {
+        "keyword": "ndis tenancy assistance canberra",
+        "natural_form": "NDIS accommodation and tenancy assistance in Canberra",
+        "check": "ndis tenancy assistance canberra",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/household-tasks",
+    "page": "Household Tasks",
+    "primary": "ndis cleaning services canberra",
+    "primary_check": "ndis cleaning services canberra",
+    "body_check": "ndis cleaning services",
+    "intent": "Help completing essential household cleaning and domestic tasks",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "domestic assistance ndis canberra",
+        "natural_form": "domestic assistance, within Canberra NDIS household support copy",
+        "check": "domestic assistance ndis canberra",
+        "note": ""
+      },
+      {
+        "keyword": "ndis cleaners canberra",
+        "natural_form": "NDIS cleaners in Canberra",
+        "check": "ndis cleaners canberra",
+        "note": ""
+      },
+      {
+        "keyword": "ndis household tasks",
+        "natural_form": "ndis household tasks",
+        "check": "ndis household tasks",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/assist-life-stage-transition",
+    "page": "Life Stage & Transition Support",
+    "primary": "ndis life transition support",
+    "primary_check": "ndis life transition support canberra",
+    "body_check": "ndis life transition support",
+    "intent": "Planning practical steps through a change in life circumstances",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis life stage transition",
+        "natural_form": "life stage transition support",
+        "check": "life stage transition",
+        "note": ""
+      },
+      {
+        "keyword": "ndis life stage transition canberra",
+        "natural_form": "life stage transition support in Canberra",
+        "check": "life stage transition canberra",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/assist-travel-transport",
+    "page": "Travel & Transport Assistance",
+    "primary": "ndis transport support canberra",
+    "primary_check": "ndis transport support canberra",
+    "body_check": "ndis transport support",
+    "intent": "Plan and arrange journeys and the assistance required to travel",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "transport assistance ndis canberra",
+        "natural_form": "NDIS transport assistance, within Canberra journey planning",
+        "check": "transport assistance ndis canberra",
+        "note": ""
+      },
+      {
+        "keyword": "ndis travel and transport",
+        "natural_form": "ndis travel and transport",
+        "check": "ndis travel and transport",
+        "note": ""
+      },
+      {
+        "keyword": "ndis transport assistance",
+        "natural_form": "ndis transport assistance",
+        "check": "ndis transport assistance",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/group-centre-activities",
+    "page": "Group & Centre Activities",
+    "primary": "ndis group activities",
+    "primary_check": "ndis group activities canberra",
+    "body_check": "ndis group activities",
+    "intent": "Ask about shared group activities and available program arrangements",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis group activities canberra",
+        "natural_form": "NDIS group activities in Canberra",
+        "check": "ndis group activities canberra",
+        "note": ""
+      },
+      {
+        "keyword": "ndis group and centre activities",
+        "natural_form": "ndis group and centre activities",
+        "check": "ndis group and centre activities",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/assist-personal-activities",
+    "page": "Personal Activities & Care",
+    "primary": "ndis personal care canberra",
+    "primary_check": "ndis personal care canberra",
+    "body_check": "ndis personal care",
+    "intent": "Assistance with personal routines, hygiene and dressing",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis personal care",
+        "natural_form": "ndis personal care",
+        "check": "ndis personal care",
+        "note": ""
+      },
+      {
+        "keyword": "ndis personal activities",
+        "natural_form": "assistance with personal activities",
+        "check": "personal activities",
+        "note": ""
+      },
+      {
+        "keyword": "ndis home care canberra",
+        "natural_form": "NDIS home care in Canberra",
+        "check": "NDIS home care in Canberra",
+        "note": "Scoped to everyday personal assistance, not nursing or aged care."
+      }
+    ]
+  },
+  {
+    "path": "/services/development-life-skills",
+    "page": "Development of Life Skills",
+    "primary": "ndis life skills",
+    "primary_check": "ndis life skills canberra",
+    "body_check": "ndis life skills",
+    "intent": "Learning and practising skills, rather than having daily tasks completed",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis development of life skills",
+        "natural_form": "development of life skills",
+        "check": "development life skills",
+        "note": ""
+      },
+      {
+        "keyword": "ndis life skills canberra",
+        "natural_form": "NDIS life skills development in Canberra",
+        "check": "ndis life skills canberra",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/innovative-community-participation",
+    "page": "Innovative Community Participation",
+    "primary": "ndis innovative community participation",
+    "primary_check": "ndis innovative community participation canberra",
+    "body_check": "ndis innovative community participation",
+    "intent": "Tailored preparation to address an individual participation barrier",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "innovative community participation",
+        "natural_form": "innovative community participation",
+        "check": "innovative community participation",
+        "note": ""
+      },
+      {
+        "keyword": "ndis innovative community participation canberra",
+        "natural_form": "NDIS innovative community participation in Canberra",
+        "check": "ndis innovative community participation canberra",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services/participate-community",
+    "page": "Social & Community Participation",
+    "primary": "community participation ndis canberra",
+    "primary_check": "ndis community participation canberra",
+    "body_check": "ndis community participation",
+    "intent": "Assistance accessing chosen everyday social and community activities",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "ndis community participation",
+        "natural_form": "ndis community participation",
+        "check": "ndis community participation",
+        "note": ""
+      },
+      {
+        "keyword": "ndis social and community participation",
+        "natural_form": "ndis social and community participation",
+        "check": "ndis social and community participation",
+        "note": ""
+      },
+      {
+        "keyword": "community access support",
+        "natural_form": "community access support",
+        "check": "community access support",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/services",
+    "page": "Services hub",
+    "primary": "ndis services canberra",
+    "primary_check": "ndis services canberra",
+    "body_check": "ndis services",
+    "intent": "Compare Barmil’s ten support options",
+    "basis": "New editorial assignment for a previously unmapped hub; no new volume claimed",
+    "secondary": [
+      {
+        "keyword": "NDIS support services Canberra",
+        "natural_form": "NDIS support services in Canberra",
+        "check": "NDIS support services Canberra",
+        "note": ""
+      },
+      {
+        "keyword": "Barmil care services",
+        "natural_form": "Barmil care services",
+        "check": "Barmil care services",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/about",
+    "page": "About",
+    "primary": "About Barmil Care Services Canberra",
+    "primary_check": "Barmil care services Canberra",
+    "body_check": "Barmil care services",
+    "intent": "Branded information about Barmil’s approach",
+    "basis": "New branded assignment; no measured search volume claimed",
+    "secondary": [
+      {
+        "keyword": "Barmil disability support Canberra",
+        "natural_form": "Barmil’s disability support in Canberra",
+        "check": "barmil disability support Canberra",
+        "note": ""
+      },
+      {
+        "keyword": "person-centred support",
+        "natural_form": "support shaped around your preferences",
+        "check": "preferences support",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/service-areas",
+    "page": "Canberra service areas",
+    "primary": "Canberra NDIS service areas",
+    "primary_check": "Canberra NDIS service areas",
+    "body_check": "ndis support canberra",
+    "intent": "Check geographical coverage and suburb arrangements",
+    "basis": "Existing workbook target; local grammar is naturalised",
+    "secondary": [
+      {
+        "keyword": "Belconnen",
+        "natural_form": "Belconnen",
+        "check": "Belconnen",
+        "note": ""
+      },
+      {
+        "keyword": "Gungahlin",
+        "natural_form": "Gungahlin",
+        "check": "Gungahlin",
+        "note": ""
+      },
+      {
+        "keyword": "Woden Valley",
+        "natural_form": "Woden Valley",
+        "check": "Woden Valley",
+        "note": ""
+      },
+      {
+        "keyword": "Tuggeranong",
+        "natural_form": "Tuggeranong",
+        "check": "Tuggeranong",
+        "note": ""
+      },
+      {
+        "keyword": "Weston Creek",
+        "natural_form": "Weston Creek",
+        "check": "Weston Creek",
+        "note": ""
+      },
+      {
+        "keyword": "Molonglo Valley",
+        "natural_form": "Molonglo Valley",
+        "check": "Molonglo Valley",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/ndis-supports",
+    "page": "NDIS support guide",
+    "primary": "understanding NDIS supports Canberra",
+    "primary_check": "understanding ndis supports canberra",
+    "body_check": "ndis supports",
+    "intent": "Understand the differences between support types before choosing",
+    "basis": "New informational assignment; no measured search volume claimed",
+    "secondary": [
+      {
+        "keyword": "NDIS support guide Canberra",
+        "natural_form": "NDIS support guide, for comparing support options in Canberra",
+        "check": "NDIS support guide Canberra",
+        "note": ""
+      },
+      {
+        "keyword": "choosing NDIS supports",
+        "natural_form": "choose NDIS supports",
+        "check": "choose ndis supports",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/faqs",
+    "page": "FAQs",
+    "primary": "NDIS support FAQs Canberra",
+    "primary_check": "ndis support faqs canberra",
+    "body_check": "ndis support",
+    "intent": "Practical questions about starting and arranging support",
+    "basis": "New informational assignment; no measured search volume claimed",
+    "secondary": [
+      {
+        "keyword": "Canberra NDIS questions",
+        "natural_form": "questions about NDIS support in Canberra",
+        "check": "ndis questions canberra",
+        "note": ""
+      },
+      {
+        "keyword": "starting NDIS support",
+        "natural_form": "starting support",
+        "check": "starting support",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/contact",
+    "page": "Contact",
+    "primary": "Contact Barmil Care Services Canberra",
+    "primary_check": "contact barmil care services canberra",
+    "body_check": "contact barmil care services",
+    "intent": "Branded contact and enquiry options",
+    "basis": "New branded enquiry assignment; no measured search volume claimed",
+    "secondary": [
+      {
+        "keyword": "Barmil phone",
+        "natural_form": "call Barmil",
+        "check": "call barmil",
+        "note": ""
+      },
+      {
+        "keyword": "Barmil email",
+        "natural_form": "email Barmil",
+        "check": "email barmil",
+        "note": ""
+      },
+      {
+        "keyword": "NDIS enquiry Canberra",
+        "natural_form": "NDIS support enquiry in Canberra",
+        "check": "ndis enquiry canberra",
+        "note": ""
+      }
+    ]
+  },
+  {
+    "path": "/privacy",
+    "page": "Privacy",
+    "primary": "Barmil Care Services privacy",
+    "primary_check": "barmil care services privacy",
+    "body_check": "privacy barmil",
+    "intent": "Privacy information for people contacting Barmil",
+    "basis": "New branded utility assignment; not a competing commercial service target",
+    "secondary": [
+      {
+        "keyword": "enquiry privacy Canberra",
+        "natural_form": "privacy information for Canberra enquiries",
+        "check": "privacy canberra enquiry",
+        "note": ""
+      },
+      {
+        "keyword": "personal information",
+        "natural_form": "personal information",
+        "check": "personal information",
+        "note": ""
+      }
+    ]
+  }
+]
